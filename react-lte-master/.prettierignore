@@ -1,0 +1,8 @@
+.github
+.idea
+coverage
+node_modules
+build
+
+pnpm-lock.yaml
+*.scss
